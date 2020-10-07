@@ -1,0 +1,5 @@
+ipykernel
+ipywidgets
+torch
+opencv-python
+matplotlib
