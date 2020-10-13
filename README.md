@@ -3,6 +3,11 @@
 
 Internkurs i Computer Vision - BRAIN NTNU 2020
 
+<p align="center">
+  <a href="Vanilla Network"><img src="fcnn.png" width=480></a>
+</p>
+
+
 ## Setup
 
 ### Code
